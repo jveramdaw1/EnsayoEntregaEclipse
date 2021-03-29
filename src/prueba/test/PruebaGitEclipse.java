@@ -12,6 +12,7 @@ public class PruebaGitEclipse {
 		System.out.println(saludo.saludar("Juan"));
 		System.out.println(saludo.saludar("Isabel"));
 		System.out.println(saludo.saludar("Pablo"));
+		System.out.println(saludo.saludar("Luis"));
 		 
 
 	}
